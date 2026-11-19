@@ -226,7 +226,7 @@ This project was developed collaboratively by a team of four members, with contr
 
 | Team Member | Contributions |
 | :--- | :--- |
-| **Prajwal Halaharvi** | AI agent architecture, LangGraph orchestration, and context intelligence implementation. |
+| **Prajwal Halaharvi** | 	Primary contributor; led the overall project development, AI agent architecture, LangGraph orchestration, context intelligence, and core implementation and integration. |
 | **Nandini R** | Frontend development, UI design, dashboard visualisation, and user experience. |
 | **P M Shareen Afsha** | DPDP compliance research, privacy classification, documentation, and testing. |
 | **Krishna Harshith Reddy Devireddy** | Backend development, API integration, database management, risk assessment, and remediation functionality. |
