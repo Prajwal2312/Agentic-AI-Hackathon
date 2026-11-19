@@ -228,7 +228,7 @@ This project was developed collaboratively by a team of four members, with contr
 | :--- | :--- |
 | **Prajwal Halaharvi** | AI agent architecture, LangGraph orchestration, and context intelligence implementation. |
 | **Nandini R** | Frontend development, UI design, dashboard visualisation, and user experience. |
-| **PM Shareen** | DPDP compliance research, privacy classification, documentation, and testing. |
+| **P M Shareen Afsha** | DPDP compliance research, privacy classification, documentation, and testing. |
 | **Krishna Harshith Reddy Devireddy** | Backend development, API integration, database management, risk assessment, and remediation functionality. |
 
 All four members collaborated in developing and integrating PRIVESCAN AI into a unified privacy auditing solution.
