@@ -217,3 +217,18 @@ This script validates:
 ---
 
 **Developed for the Agentic AI Hackathon** | *PRIVESCAN AI — Autonomous Data Privacy Discovery & DPDP Compliance Auditor*
+
+---
+
+## 10. Team Contributions
+
+This project was developed collaboratively by a team of four members, with contributions across AI development, backend engineering, frontend design, compliance analysis, testing, and documentation.
+
+| Team Member | Contributions |
+| :--- | :--- |
+| **Prajwal Halaharvi** | AI agent architecture, LangGraph orchestration, and context intelligence implementation. |
+| **Nandini R** | Frontend development, UI design, dashboard visualisation, and user experience. |
+| **PM Shareen** | DPDP compliance research, privacy classification, documentation, and testing. |
+| **Krishna Harshith Reddy Devireddy** | Backend development, API integration, database management, risk assessment, and remediation functionality. |
+
+All four members collaborated in developing and integrating PRIVESCAN AI into a unified privacy auditing solution.
