@@ -1,0 +1,5 @@
+Transaction_ID,Order_ID,Client_Name,Contact_Phone,Contact_Email,Aadhaar_Number,Billing_City,Payment_Status,Invoice_Amount_INR
+TXN9876543210,9876543210,Sunita Reddy,9849012345,sunita.reddy@techcorp.com,9876 5432 1098,Hyderabad,COMPLETED,45200.00
+TXN9123456780,9123456780,Rajesh Nair,9447098765,rajesh.nair@logisticshub.net,8765 4321 0987,Kochi,SETTLED,18900.50
+TXN8765432109,8765432109,Deepak Verma,9811234567,deepak.verma@consultancy.in,7654 3210 9876,New Delhi,PENDING,95000.00
+TXN7654321098,7654321098,Meera Iyer,9840198765,meera.iyer@creativestudios.co,6543 2109 8765,Chennai,COMPLETED,32400.00
